@@ -1,5 +1,6 @@
 import pytest
-from schemas.category import Category
+
+from app.schemas.category import Category
 
 
 def test_category_schema():
